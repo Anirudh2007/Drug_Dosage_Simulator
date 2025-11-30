@@ -52,7 +52,7 @@ Data is downloaded automatically by the code.
 
 📚 Full Report
 
-A full technical report (PDF + LaTeX source) is included in report/.
+A full technical report (PDF + LaTeX source) is included in report.
 
 🧑‍💻 Author
 
