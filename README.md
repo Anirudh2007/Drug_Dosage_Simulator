@@ -54,10 +54,6 @@ Data is downloaded automatically by the code.
 
 A full technical report (PDF + LaTeX source) is included in report/.
 
-📘 License
-
-This project is distributed under the MIT License, allowing academic and open-source use.
-
 🧑‍💻 Author
 
 Anirudh Jain, Ayush Pandey, Sourabh, Vedant Kumar
